@@ -18,5 +18,5 @@
 | Freedie Gibbs & Madlub           | Bandana         |        |
 | Tom Yorke                        | Anima           |        |
 | Toro Y Moi                       | Outer Peace     |        |
-|                                  |                 |        |
+| Chromatics                       | Closer to Grey  |        |
 |                                  |                 |        |

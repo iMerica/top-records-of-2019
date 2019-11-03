@@ -15,7 +15,7 @@
 | Angel Olsen                      | All Mirrors     |        |
 | Cigarrettes After Sex            | Cry             |        |
 | Weezer                           | The Black Album |        |
-| Freedie Gibbs & Madlub           | Bandana         |        |
+| Freedie Gibbs & Madlib           | Bandana         |        |
 | Tom Yorke                        | Anima           |        |
 | Toro Y Moi                       | Outer Peace     |        |
 | Chromatics                       | Closer to Grey  |        |

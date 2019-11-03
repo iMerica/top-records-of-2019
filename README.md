@@ -2,7 +2,7 @@
 
 (In no particular order)
 
-| Artist                           | Album Name      | Listen |
+| Artist                           | Record          | Listen |
 |----------------------------------|-----------------|--------|
 | Kanye West                       | Jesus is King   |        |
 | Caroline Polachek                | Pang            |        |

@@ -19,4 +19,6 @@
 | Tom Yorke                        | Anima           |        |
 | Toro Y Moi                       | Outer Peace     |        |
 | Chromatics                       | Closer to Grey  |        |
-|                                  |                 |        |
+| Ex Hex                           | It's Real       |        |
+| Clairo                           | Immunity        |        |
+  

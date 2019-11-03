@@ -1,8 +1,8 @@
-# Top records of 2019 
+# Top Records of 2019 
 
 (In no particular order)
 
-| Artists                          | Album Name      | Listen |
+| Artist                           | Album Name      | Listen |
 |----------------------------------|-----------------|--------|
 | Kanye West                       | Jesus is King   |        |
 | Caroline Polachek                | Pang            |        |

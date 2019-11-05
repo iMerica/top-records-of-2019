@@ -15,7 +15,7 @@
 | Angel Olsen                      | All Mirrors     |[Apple Music](https://music.apple.com/us/album/all-mirrors/1472009368)        |
 | Cigarrettes After Sex            | Cry             |[Apple Music](https://music.apple.com/us/album/cry/1475703686)        |
 | Weezer                           | The Black Album |[Apple Music](https://music.apple.com/us/album/weezer-black-album/1442329821)        |
-| Freedie Gibbs & Madlib           | Bandana         |[Apple Music](https://music.apple.com/us/album/bandana/1464243671)        |
+| Freddie Gibbs & Madlib           | Bandana         |[Apple Music](https://music.apple.com/us/album/bandana/1464243671)        |
 | Tom Yorke                        | Anima           |[Apple Music](https://music.apple.com/us/album/anima/1467347588)        |
 | Toro Y Moi                       | Outer Peace     |[Apple Music](https://music.apple.com/us/album/outer-peace/1438769910)        |
 | Chromatics                       | Closer to Grey  |[Apple Music](https://music.apple.com/us/album/closer-to-grey/1481815287)        |
